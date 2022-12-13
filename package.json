@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "dialogflow": "^0.14.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react-native-dialogflow": "^3.2.2",
     "uuid": "^3.3.3"
   }
